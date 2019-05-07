@@ -33,9 +33,37 @@ namespace ConsoleApp1
 
 
 
-			Console.WriteLine("how does Ronald McDonald fucks his wife");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Console.WriteLine("what is Kevin's golden rule?");
 			Console.ReadKey();
-			Console.WriteLine("Chicken Tenderly");
+			Console.WriteLine("Don't put evidence that you're an idiot on the internet");
 			Console.ReadKey();
 		}
     }
