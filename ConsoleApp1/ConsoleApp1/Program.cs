@@ -12,6 +12,8 @@ namespace ConsoleApp1
         {
             Console.WriteLine("Howdy Planet!");
             Console.ReadKey();
+			Console.WriteLine("Uwu wats dis");
+			Console.ReadKey();
         }
     }
 }
