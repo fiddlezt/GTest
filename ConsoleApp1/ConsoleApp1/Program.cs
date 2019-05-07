@@ -61,7 +61,7 @@ namespace ConsoleApp1
 
 
 
-			Console.WriteLine("what is Kevin's golden rule?");
+			Console.WriteLine("what is Kevin's Golden Rule?");
 			Console.ReadKey();
 			Console.WriteLine("Don't put evidence that you're an idiot on the internet");
 			Console.ReadKey();
