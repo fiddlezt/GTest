@@ -10,10 +10,33 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Howdy Planet!");
-            Console.ReadKey();
-			Console.WriteLine("Uwu wats dis");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Console.WriteLine("how does Ronald McDonald fucks his wife");
 			Console.ReadKey();
-        }
+			Console.WriteLine("Chicken Tenderly");
+			Console.ReadKey();
+		}
     }
 }
