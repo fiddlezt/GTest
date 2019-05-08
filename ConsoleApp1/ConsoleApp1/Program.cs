@@ -55,13 +55,14 @@ namespace ConsoleApp1
 
 
 
-            Console.Write("hello");
+
 
 
 
 
 
 			Console.WriteLine("what is Kevin's Golden Rule?");
+			Console.ReadKey();
 			Console.WriteLine("Don't put evidence that you're an idiot on the internet");
 			Console.ReadKey();
 		}
